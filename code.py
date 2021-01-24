@@ -11,7 +11,7 @@ from email.utils import formataddr
 
 # 你的selenium的驱动地址：
 driverUrl = 'D:\Program\Python\chromedriver.exe'
-# driverUrl='D:\pypackages\chromedriver.exe'
+# driverUrl='D:\Program\Python\chromedriver.exe'
 
 # 你的pubmed网址（先按规则搜索，copy第一个结果页面到这里）：
 webUrl = 'https://www.ncbi.nlm.nih.gov/pubmed?term=((epilepsy%5BTitle%5D)%20OR%20epileptic%5BTitle%5D)%20OR%20seizure%5BTitle%5D'
